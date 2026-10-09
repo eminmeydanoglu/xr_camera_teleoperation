@@ -1,4 +1,4 @@
-# xr-camera-teleoperation
+# xr_camera_teleoperation
 
 Camera-based teleoperation of the Unitree G1 (29 DoF arms + Dex3 hands): a monocular RGB camera and the
 WiLoR hand-reconstruction model replace the VR headset of Unitree's
